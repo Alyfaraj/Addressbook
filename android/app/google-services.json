@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "844774863703",
+    "project_id": "addressbook-2c639",
+    "storage_bucket": "addressbook-2c639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844774863703:android:d0718d39f897ed0c4c4412",
+        "android_client_info": {
+          "package_name": "com.addressbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844774863703-6rbuvbuuk23p2t07v7o1j8e6kfq2a70k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Xxc7GATlj1ge8hGnAT2CP8EB4fycYv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844774863703-6rbuvbuuk23p2t07v7o1j8e6kfq2a70k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "844774863703-b65qj1525g8357hl84el25j2pqgg8d7j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ali.addressbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
